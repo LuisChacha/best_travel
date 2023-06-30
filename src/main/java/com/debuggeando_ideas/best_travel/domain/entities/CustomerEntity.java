@@ -26,6 +26,6 @@ public class CustomerEntity implements Serializable {
     private Integer totalFlights;
     private Integer totalLodgings;
     private Integer totalTours;
-    
+
 
 }
